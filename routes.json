@@ -1,0 +1,5 @@
+{
+    "/api/*": "/$1",
+    "/:column/:id/show": "/:column/:id",
+    "/:column/:id/:children/show": "/:column/:id/:children"
+}

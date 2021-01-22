@@ -1,0 +1,91 @@
+{
+  "Accounts": [
+    {
+      "id": 1,
+      "name": "Farhan",
+      "hobby": "ngodang ngopi wedang jahe",
+      "classId": 2
+    },
+    {
+      "id": 2,
+      "name": "aan",
+      "hobby": "nonton",
+      "classId": 3
+    },
+    {
+      "id": 3,
+      "name": "Dewan",
+      "hobby": "makan",
+      "classId": 4
+    },
+    {
+      "id": 4,
+      "name": "Syahputra",
+      "hobby": "minum",
+      "classId": 1
+    },
+    {
+      "id": 5,
+      "name": "Dewanta",
+      "hobby": "H3H3",
+      "classId": 5
+    }
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "mata_kuliah": "Matdis",
+      "SKS": 3
+    },
+    {
+      "id": 2,
+      "mata_kuliah": "Basis Data",
+      "SKS": 3
+    },
+    {
+      "id": 3,
+      "mata_kuliah": "Pemrograman Web",
+      "SKS": 3
+    },
+    {
+      "id": 4,
+      "mata_kuliah": "Etika Profesi",
+      "SKS": 2
+    },
+    {
+      "id": 5,
+      "mata_kuliah": "Terbang",
+      "SKS": 75
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "kelas": "A",
+      "lessonId": 3
+    },
+    {
+      "id": 2,
+      "kelas": "B",
+      "lessonId": 4
+    },
+    {
+      "id": 3,
+      "kelas": "C",
+      "lessonId": 1
+    },
+    {
+      "id": 4,
+      "kelas": "D",
+      "lessonId": 2
+    },
+    {
+      "id": 5,
+      "kelas": "E",
+      "lessonId": 5
+    }
+  ],
+  "edukasi": {
+    "nama": "Universitas"
+  }
+}
